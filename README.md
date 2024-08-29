@@ -39,6 +39,7 @@ Tools list for pentesting to continue to be extended.
    - Censys CLI
    - DuckDuckGo Scraper
    - Scrapy
+   - WPScan
 
 2. **Network Scanning**
    - Nmap
