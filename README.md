@@ -40,6 +40,8 @@ Tools list for pentesting to continue to be extended.
    - DuckDuckGo Scraper
    - Scrapy
    - WPScan
+   - Curl
+   - TorCurl
 
 2. **Network Scanning**
    - Nmap
@@ -104,6 +106,7 @@ Tools list for pentesting to continue to be extended.
    - Vulnscan
    - Nuclei
    - SSLscan
+   - OpenSSL
 
 4. **Web Application Scanning**
    - Burp Suite
