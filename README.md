@@ -102,6 +102,7 @@ Tools list for pentesting to continue to be extended.
    - OpenVAS CLI
    - Vulnscan
    - Nuclei
+   - SSLscan
 
 4. **Web Application Scanning**
    - Burp Suite
