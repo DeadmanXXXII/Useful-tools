@@ -1,6 +1,7 @@
 🛠️ Useful Pentesting Tools
 
 A comprehensive list of tools categorized by phase of a pentest engagement — from OSINT to clean-up. Continuously evolving and extended.
+Check out out newly added shell-check tool. It runs a fast audit on your image.
 
 
 ---
